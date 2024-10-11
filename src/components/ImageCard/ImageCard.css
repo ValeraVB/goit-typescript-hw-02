@@ -1,0 +1,14 @@
+.image-card {
+  cursor: pointer;
+  margin: 10px;
+}
+
+.image-card img {
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+}
+
+.image-card p {
+  margin-top: 5px;
+}
