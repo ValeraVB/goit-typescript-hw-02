@@ -1,6 +1,6 @@
 import ImageCard from "../ImageCard/ImageCard";
 import Loader from "../Loader/Loader";
-import { Image } from "../../types"; 
+import { Image } from "../../App.types";
 import "./ImageGallery.css";
 
 interface ImageGalleryProps {

@@ -1,5 +1,5 @@
 import axios from "axios";
-import { Image as ImageType } from "../types";
+import { Image as ImageType } from "../App.types";
 
 const ACCESS_KEY = "uBHHAHEPAGwf4fc5A3IjyZygHsbZ6wg2KAF9Ns3bOMs";
 const API_URL = "https://api.unsplash.com/search/photos";

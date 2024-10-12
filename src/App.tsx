@@ -7,7 +7,7 @@ import LoadMoreBtn from "./components/LoadMoreBtn/LoadMoreBtn";
 import ErrorMessage from "./components/ErrorMessage/ErrorMessage";
 import unsplashService from "./services/unsplashService";
 import { Toaster } from "react-hot-toast";
-import { Image } from "./types";
+import { Image } from "./App.types";
 import "./App.css";
 
 const App = () => {
